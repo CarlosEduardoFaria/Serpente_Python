@@ -1,2 +1,2 @@
-# Python
-Projetos em Python 
+# Serpente_Python
+Jogo da serpernte elaborado usando a biblioteca PyCharm 

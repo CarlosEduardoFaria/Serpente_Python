@@ -5,10 +5,10 @@ Para que a aplicação funcione corretamente é preciso ter instalada a bibliote
 
 1 - Instalar o PIP (Gerenciador de pacotes Python):
 
-python3 -m pip install -U pygame --user
+python -m pip install -U pygame --user
 
 2 - Instalar a biblioteca PyGame:
 
-python3 -m pip install -U pygame --user
+python -m pip install -U pygame --user
 
 
